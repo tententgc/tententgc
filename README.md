@@ -1,4 +1,4 @@
-### Hi there My name is Tenten 👋
+# Hi there My name is Tenten 👋
 - 🌱 I’m currently learning ... python,javascript for data science
 <!--
 **tententgc/tententgc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

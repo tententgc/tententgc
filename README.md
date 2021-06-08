@@ -1,5 +1,7 @@
 # Hi there My name is Tenten 👋
 - 🌱 I’m currently learning ... python,javascript for data science
+
+![tententgc]('https://github.com/tententgc/pythonforlearndatscientist/raw/main/197365719_298203481983007_289378278497279769_n.jpg')
 <!--
 **tententgc/tententgc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

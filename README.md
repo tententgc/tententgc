@@ -1,4 +1,4 @@
-## Hi there My name is Tenten. Welcome to myvGithub profile 👋
+## Hi there My name is Tenten. Welcome to myGithub profile 👋
 - 💻 I'm study at ...  Appiled Computer science and mathematics @ King Mongkut's University of Technology Thonburi
 - 🌱 I’m currently learning ... python,javascript for data science
 - ⚡ Fun fact: ... I will have doll when I wil coding 

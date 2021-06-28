@@ -11,7 +11,7 @@
 - c#
 - React.js
 
- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tententgc&show_icons=true&count_private=true&theme=nightowl)
+ ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tententgc&show_icons=true&count_private=true&theme=synthwave)
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tententgc&layout=compact)](https://github.com/anuraghazra/github-readme-stats)

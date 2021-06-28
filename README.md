@@ -3,9 +3,10 @@
 - 🌱 I’m currently learning ... python,javascript for data science
 - ⚡ Fun fact: ... I will have doll when I wil coding 
 ### Familiar with 🌎 
-- java   --------> basic
+- java
+- ruby
 - python
-- javascript ------------> basic
+- javascript
 - c
 - c++
 - c#

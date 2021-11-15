@@ -1,14 +1,11 @@
-# Hey, there 😼.
-My name is Thanyapisit Buaprakhong. I'm  students computer science student at ACS,KMUTT.
+## Hey, there. My name is Thanyapisit Buaprakhong. You can call me Tenten
 
-
-
+I am a junior student  in Applied Computer Science.Faculty of Science,King Mongkut's University of Technology Thonburi (KMUTT).
 
 ![Github Stat](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tententgc&theme=dracula)
 
-[![tententgc github stats](https://github-readme-stats.vercel.app/api?username=tententgc&count_private=true&show_icons=true&theme=ocean_dark)](https://github.com/anuraghazra/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tententgc&layout=compact&theme=ocean_dark)](https://github.com/anuraghazra/github-readme-stats)
-
-
+[![tententgc github stats](https://github-readme-stats.vercel.app/api?username=tententgc&count_private=true&show_icons=true&theme=ocean_dark)](https://github.com/anuraghazra/github-readme-stats)
+<img align="left" alt="Anna's GitHub Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tententgc&layout=compact&theme=ocean_dark" />
 ### Languages and Tools:
 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />

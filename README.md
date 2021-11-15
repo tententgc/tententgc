@@ -15,7 +15,7 @@ I am a junior student  in Applied Computer Science.Faculty of Science,King Mongk
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I speak 5 languages ( English, Thai , Korea , chinese , Japan)
 
-<br/><br/>
+<br/><br/><br/><br/>
 
 ![Github Stat](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tententgc&theme=dracula)
 

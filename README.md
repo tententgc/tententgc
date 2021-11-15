@@ -2,7 +2,7 @@
 
 I am a junior student  in Applied Computer Science.Faculty of Science,King Mongkut's University of Technology Thonburi (KMUTT).
 
-<img align="right" alt="GIF" src="https://github.com/tententgc/Web_intoduction_me/blob/main/images/dale.jpg?raw=true" width="500" height="500" />
+<img align="right" alt="GIF" src="https://github.com/tententgc/Web_intoduction_me/blob/main/images/dale.jpg?raw=true" width="400" height="400" />
 <br/><br/> <br/><br/> 
 
 

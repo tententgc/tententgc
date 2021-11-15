@@ -2,13 +2,28 @@
 
 I am a junior student  in Applied Computer Science.Faculty of Science,King Mongkut's University of Technology Thonburi (KMUTT).
 
+<img align="right" alt="GIF" src="https://github.com/tententgc/Web_intoduction_me/blob/main/images/dale.jpg?raw=true" width="500" height="500" />
+<br/><br/> <br/><br/> 
+
+
+## I'm a  Students , Developer And Creator!!
+
+- 🔭 I’m currently studying at ACS,KMUTT
+- 🌱 I’m currently learning React and Firebase
+- 👯 I’m looking to collaborate on open source
+- 💬 Ask me about ... Anything
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: I speak 5 languages ( English, Thai , Korea , chinese , Japan)
+
+<br/><br/>
+
 ![Github Stat](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tententgc&theme=dracula)
 
 [![tententgc github stats](https://github-readme-stats.vercel.app/api?username=tententgc&count_private=true&show_icons=true&theme=ocean_dark)](https://github.com/anuraghazra/github-readme-stats)
-<img align="right" alt="tenten" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tententgc&layout=compact&theme=ocean_dark" />
+[![tententgc github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=tententgc&layout=compact&theme=ocean_dark)
 
 
-<br/><br/>
+<br/>
 
 
 ### Languages and Tools:

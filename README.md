@@ -9,7 +9,7 @@ I am a junior student  in Applied Computer Science.Faculty of Science,King Mongk
 <img align="left" alt="Anna's GitHub Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tententgc&layout=compact&theme=ocean_dark" />
 
 
-<br /><br/><br/>
+<br/><br/><br/><br/><br/><br/><br/><br/><br/>
 
 
 ### Languages and Tools:

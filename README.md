@@ -1,6 +1,6 @@
 ## Hey, there. My name is Thanyapisit Buaprakhong. You can call me Tenten
 
-I am a junior student  in Applied Computer Science.Faculty of Science,King Mongkut's University of Technology  Thonburi (KMUTT)
+I am a junior student  in Applied Computer Science.Faculty of Science,King Mongkut's University of Technology  Thonburi (KMUTT).
 
 Now,I'm in love status in real life.
 

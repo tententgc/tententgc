@@ -1,14 +1,21 @@
 
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Thanyapisit Buaprakhong.</h1>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Tententgc.</h1>
 <h3 align="center">I'm Student and Developer from Thailand.</h3>
 <p align="center">
-          <img height="300" width="500"src="https://github.blog/wp-content/uploads/2020/12/102393310-07478b80-3f8d-11eb-84eb-392d555ebd29.png?fit=1200%2C630">
+          <img height="300" width="600"src="https://github.blog/wp-content/uploads/2020/12/102393310-07478b80-3f8d-11eb-84eb-392d555ebd29.png?fit=1200%2C630">
  
  </p>
 
 ## 🙋‍♂️ About Me
-
+- My name is **Thanyapisit Buaprakhong**
+- Release! **[Countdown](https://tentencountdown2022.netlify.app/)** (Countdown site)
+- Release! **[MusicMelody](https://github.com/tententgc/PlayMusicJS)** (Create Music with melody)
+- Release! **[Pythonbot](https://github.com/tententgc/discordbot_python)** (Python Discord bot)
+- Olution! **[ClashofCode](https://github.com/tententgc/ClashOfCode-Solution)** (My clashofcode solution)
+- Develop! **[CareSasi-Bot](https://github.com/tententgc/CareSasi-Bot)** (Mathimetics discord Bot)
 - 🧑‍🎓 I'm study Aplied Computer Science at  **[KMUTT](https://www.kmutt.ac.th/)**
+- 📚 I’m currently learning React.js and Next.JS
+- ⚡ Fun fact play games,watching Youtube and Read books.
 
 ## 🚀 Know Languages & How to use?:
 

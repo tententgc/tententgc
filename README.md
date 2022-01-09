@@ -22,10 +22,18 @@
                                                                padding = "2px" width="48" height="48"/> </a> 
 </p>
 
-![Github Stat](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tententgc&theme=dracula)
 
-![tententgc github stats](https://github-readme-stats.vercel.app/api?username=tententgc&count_private=true&show_icons=true&theme=ocean_dark)
 
-![tententgc github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=tententgc&layout=compact&theme=ocean_dark)
+<p align="center">
+    <a href="https://github.com/anuraghazra/github-readme-stats">
+        <img title=🔥 src="https://github-readme-streak-stats.herokuapp.com/?user=tententgc&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
+    </a>
+</p>
+
+<div align="center">
+  <a href="https://github.com/Adivise">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=tententgc&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tententgc&layout=compact&langs_count=7&theme=dracula"/>
+</div>
 
 > Last Updated : 7/1/2565 By @tenten_tgc  

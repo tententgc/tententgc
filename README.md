@@ -1,8 +1,5 @@
-![Header](https://i.pinimg.com/originals/d3/52/8b/d3528be89c8e945257a2c7367bf938ce.gif "Header")
-
-# Hey There 👋.
-
-My name is Thanyapisit Tenten Buaprakhong and I'm student a Apilied Computer Science at Fsci,KMUTT.
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Thanyapisi Buaprakhong.</h1>
+<h3 align="center">I'm Developer from Thailand.</h3>
 
 
 I'm comfortable coding with Python, NodeJS, C and Java. Now I'm learning to React and Next.Js

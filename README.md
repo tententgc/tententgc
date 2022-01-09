@@ -31,13 +31,13 @@
 </p>
 
 <div align="center">
-  <a href="https://github.com/Adivise">
+  <a href="https://github.com/tententgc">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=tententgc&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tententgc&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 
 <div align="center">
-<!-- <img src="https://komarev.com/ghpvc/?username=tententgc&label=Profile%20Views&color=fa6161&style=flat&label=Visitors" alt="Visitors"></a> -->
+<img src="https://komarev.com/ghpvc/?username=tententgc&label=Profile%20Views&color=fa6161&style=flat&label=Visitors" alt="Visitors"></a>
 <img src="https://img.shields.io/badge/dynamic/json?&label=Total%20Stars&color=fa6161&style=flat&style=for-the-badge&query=%24.stars&url=https://api.github-star-counter.workers.dev/user/tententgc" alt="Profile Stars"></a>
 <img src="https://img.shields.io/badge/dynamic/json?&label=Total%20Forks&color=fa6161&style=flat&style=for-the-badge&query=%24.forks&url=https://api.github-star-counter.workers.dev/user/tententgc" alt="Profile Forks"></a>
 </div>

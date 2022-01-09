@@ -1,7 +1,8 @@
+
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Thanyapisit Buaprakhong.</h1>
-<h3 align="center">I'm Developer from Thailand.</h3>
+<h3 align="center">I'm Student and Developer from Thailand.</h3>
 <p align="center">
-          <img src="https://64.media.tumblr.com/6631cd103f274efce6b6469ae1dc69a3/a89930a95d7ac06b-69/s500x750/b79a3f9e77f0e2e79c7c2d40ddf1acc70f9b858a.gif">
+          <img height="300" width="500"src="https://github.blog/wp-content/uploads/2020/12/102393310-07478b80-3f8d-11eb-84eb-392d555ebd29.png?fit=1200%2C630">
  
  </p>
 
@@ -40,9 +41,10 @@
 <img src="https://img.shields.io/badge/dynamic/json?&label=Total%20Stars&color=531C6A&style=flat&style=for-the-badge&query=%24.stars&url=https://api.github-star-counter.workers.dev/user/tententgc" alt="Profile Stars"></a>
 <img src="https://img.shields.io/badge/dynamic/json?&label=Total%20Forks&color=531C6A&style=flat&style=for-the-badge&query=%24.forks&url=https://api.github-star-counter.workers.dev/user/tententgc" alt="Profile Forks"></a>
 </div>
-<!-- <div align="center">
+
+<div align="center">
 
   ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
 
 </div>
- -->
+

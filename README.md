@@ -11,7 +11,7 @@
 - Release! **[Countdown](https://tentencountdown2022.netlify.app/)** (Countdown site)
 - Release! **[MusicMelody](https://github.com/tententgc/PlayMusicJS)** (Create Music with melody)
 - Release! **[Pythonbot](https://github.com/tententgc/discordbot_python)** (Python Discord bot)
-- Olution! **[ClashofCode](https://github.com/tententgc/ClashOfCode-Solution)** (My clashofcode solution)
+- Solution! **[ClashofCode](https://github.com/tententgc/ClashOfCode-Solution)** (My clashofcode solution)
 - Develop! **[CareSasi-Bot](https://github.com/tententgc/CareSasi-Bot)** (Mathimetics discord Bot)
 - 🧑‍🎓 I'm study Aplied Computer Science at  **[KMUTT](https://www.kmutt.ac.th/)**
 - 📚 I’m currently learning React.js and Next.JS

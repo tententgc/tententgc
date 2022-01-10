@@ -7,7 +7,7 @@
  </p>
 
 ## 🙋‍♂️ About Me
-- My name is **Thanyapisit Buaprakhong**
+- My name is **Thanyapisit Buaprakhong **
 - Release! **[Countdown](https://tentencountdown2022.netlify.app/)** (Countdown site)
 - Release! **[MusicMelody](https://github.com/tententgc/PlayMusicJS)** (Create Music with melody)
 - Release! **[Pythonbot](https://github.com/tententgc/discordbot_python)** (Python Discord bot)

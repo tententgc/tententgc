@@ -3,7 +3,7 @@
 <h3 align="center">I'm Student and Developer from Thailand.</h3>
 <p align="center">
 <!--           <img height="300" width="600"src="https://github.blog/wp-content/uploads/2020/12/102393310-07478b80-3f8d-11eb-84eb-392d555ebd29.png?fit=1200%2C630"> -->
-          <img  src="https://github.com/tententgc/tententgc/blob/3f72ced0d63f2386816a1a8859fbc481bae90d63/tgc%20draft%204.png">
+          <img  height="300" width ="600"src="https://github.com/tententgc/tententgc/blob/3f72ced0d63f2386816a1a8859fbc481bae90d63/tgc%20draft%204.png">
  
  </p>
 

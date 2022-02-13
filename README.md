@@ -10,8 +10,11 @@
 
 ## 🙋‍♂️ About Me
 - My name is **Thanyapisit Buaprakhong**
-- Release! **[Countdown](https://tentencountdown2022.netlify.app/)** (Countdown site)
+- Release! **[Countdown](https://countdown.tententgc.com/)** (Countdown site)
 - Release! **[MusicMelody](https://github.com/tententgc/PlayMusicJS)** (Create Music with melody)
+- Release! **[Personal site](https://www.tententgc.com/)** (Personal site)
+- Release! **[Todolist app](https://todolist.tententgc.com/)** (Todolist site)
+- Release! **[Grader](https://grader.tententgc.com/)** (grader site)
 - Release! **[Pythonbot](https://github.com/tententgc/discordbot_python)** (Python Discord bot)
 - Solution! **[ClashofCode](https://github.com/tententgc/ClashOfCode-Solution)** (My clashofcode solution)
 - Develop! **[CareSasi-Bot](https://github.com/tententgc/CareSasi-Bot)** (Mathimetics discord Bot)

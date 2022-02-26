@@ -4,7 +4,7 @@
 <h3 align="center">I'm Student and Developer from Thailand.</h3>
 
 <div align="center">  
-    <img src="https://c.tenor.com/7tlM7VOBit8AAAAC/night-tutorials-indo-hanging-light.gif">
+    <img src="https://github.com/tententgc/tententgc/blob/0de9127a698308ab977ea49d46d769c8ac2caff0/banner.png">
 </div>
 
 

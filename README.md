@@ -1,7 +1,9 @@
 
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Tententgc.</h1>
 
+<h3 align="center">I'm Student and Developer from Thailand.</h3>
 <div align="center">  
-    <img src="https://github.com/tententgc/tententgc/blob/417a301421d82c7222cd7df7f87400ab0ac72d2d/header.png">
+    <img src="https://64.media.tumblr.com/9d6d76c6f82b63ed23cb5972b18119c4/tumblr_poqvbmnJWq1rpooub_640.gifv">
 </div>
 
 

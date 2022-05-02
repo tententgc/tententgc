@@ -28,7 +28,6 @@ object Thanyapisit {
 
 My name is Thanyapisit and I'm a Web Developer. I'm form  Thailand , living in Bangkok.
 
-## My project
 
 
 ## Github Stats

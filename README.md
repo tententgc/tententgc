@@ -1,61 +1,45 @@
 
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Tententgc.</h1>
-
-<h3 align="center">I'm Student and Developer from Thailand.</h3>
-<div align="center">  
-    <img src="https://64.media.tumblr.com/9d6d76c6f82b63ed23cb5972b18119c4/tumblr_poqvbmnJWq1rpooub_640.gifv">
-</div>
-
-
-## 🙋‍♂️ About Me
-- My name is **Thanyapisit Buaprakhong**
-- Release! **[Countdown](https://countdown.tententgc.com/)** (Countdown site)
-- Release! **[MusicMelody](https://github.com/tententgc/PlayMusicJS)** (Create Music with melody)
-- Release! **[Personal site](https://www.tententgc.com/)** (Personal site)
-- Release! **[Todolist app](https://todolist.tententgc.com/)** (Todolist site)
-- Release! **[Grader](https://grader.tententgc.com/)** (grader site)
-- Release! **[Pythonbot](https://github.com/tententgc/discordbot_python)** (Python Discord bot)
-- Solution! **[ClashofCode](https://github.com/tententgc/ClashOfCode-Solution)** (My clashofcode solution)
-- Develop! **[CareSasi-Bot](https://github.com/tententgc/CareSasi-Bot)** (Mathimetics discord Bot)
-- 🧑‍🎓 I'm study Applied Computer Science at  **[KMUTT](https://www.kmutt.ac.th/)**
-- 📚 I’m currently learning React.js and Next.JS
-- ⚡ Fun fact play games,watching Youtube and Read books.
-
-## 🚀 Know Languages & How to use?:
-
-<p align="center"> 
-  <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Rafa-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="center" alt="Rafa-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
+<p align="center">
+ <img width="100px" src="https://monophy.com/media/du3J3cXyzhj75IOgvA/monophy.gif" align="center" alt="Hendrasob's GitHub Readme" />
+ <h2 align="center">Thanyapisit - @tententgc</h2>
+ <p align="center">Computer science student</p>
 </p>
-
-
 
 <p align="center">
-    <a href="https://github.com/anuraghazra/github-readme-stats">
-        <img title=🔥 src="https://github-readme-streak-stats.herokuapp.com/?user=tententgc&theme=midnight-purple&hide_border=true&stroke=0000&background=060A0CD0"/>
-    </a>
+<img alt="Profile View" src="https://gpvc.arturio.dev/tententgc" />
 </p>
 
-<div align="center">
-  <a href="https://github.com/tententgc">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=tententgc&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tententgc&layout=compact&langs_count=7&theme=midnight-purple"/>
-</div>
+```kotlin
+object Thanyapisit {
+ val name = "Thanyapisit"
+ val birth = "14th-Feb-2003"
+ 
+ val primarySkillset = listOf("Full-stack", "Web developer")
+ val languages = listOf("React", "PHP","Python")
+ val learning = "Kotlin"
+ val contact = "@tententgc".apply {
+   twitter = this
+   facebook = this
+   instagram = this
+ }
+}
+```
+## Hello, there
 
-<div align="center">
-<img src="https://komarev.com/ghpvc/?username=tententgc&label=Profile%20Views&color=531C6A&style=flat&label=Visitors" alt="Visitors"></a>
-<img src="https://img.shields.io/badge/dynamic/json?&label=Total%20Stars&color=531C6A&style=flat&style=for-the-badge&query=%24.stars&url=https://api.github-star-counter.workers.dev/user/tententgc" alt="Profile Stars"></a>
-<img src="https://img.shields.io/badge/dynamic/json?&label=Total%20Forks&color=531C6A&style=flat&style=for-the-badge&query=%24.forks&url=https://api.github-star-counter.workers.dev/user/tententgc" alt="Profile Forks"></a>
-</div>
+My name is Thanyapisit and I'm a Web Developer. I'm form  Thailand , living in Bangkok.
 
-<div align="center">
+## My project
 
-  ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
 
-</div>
+## Github Stats
 
+<details> 
+  <summary>💻 GitHub Profile Stats</summary>
+  <br/>
+    <img alt="tententgc Github Stats" src="https://github-readme-stats.vercel.app/api?username=tententgc&show_icons=true&count_private=true&theme=radical&hide_border=true&bg_color=0D1117" />
+  <img alt="tententgc Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tententgc&langs_count=10&layout=compact&theme=radical&hide_border=true&bg_color=0D1117" />
+  <br/>
+  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
+</details>
+
+<img alt="streak stats" src="https://github-readme-streak-stats.herokuapp.com/?user=tententgc&theme=highcontrast" />

@@ -17,6 +17,7 @@ object Thanyapisit {
  val primarySkillset = listOf("Full-stack", "Web developer")
  val languages = listOf("React", "PHP","Python")
  val learning = "Kotlin"
+ 
  val contact = "@tententgc".apply {
    twitter = this
    facebook = this

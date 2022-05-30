@@ -1,45 +1,23 @@
+# Hello there 👋
+![](https://github.com/halfrost/halfrost/blob/master/icons/header_1.png)
+
+I make  🌐 Website for a living and also **Write some blogs**. 🌈  
+
+* 🧐   Interested in full stack
+* 🎓   1st year computer science at king mongkut's university of technology thonburi
+* 🌱   Currently learning Java, Javascipt and Math
+* ⛵   Encouraging people for open source collaborations.
+
+<details>
+  <summary>Some other achievements about me~e~e</summary>
+  <br>
+ * 👑   Some GitHub statistical reports:
 
 <p align="center">
- <img width="100px" src="https://monophy.com/media/du3J3cXyzhj75IOgvA/monophy.gif" align="center" alt="Hendrasob's GitHub Readme" />
- <h2 align="center">Thanyapisit - @tententgc</h2>
- <p align="center">Computer science student</p>
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tententgc&hide_langs_below=1&theme=default&line_height=27&layout=compact" />
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=tententgc&show_icons=true&count_private=true&include_all_commits=true&line_height=21" alt="tenten Github Stats" />
+<img align="center" src="https://github-profile-trophy.vercel.app/?username=tententgc&column=7" alt="halfrost's Github Trophy" />
+
 </p>
 
-<p align="center">
-<img alt="Profile View" src="https://gpvc.arturio.dev/tententgc" />
-</p>
-
-```kotlin
-object Thanyapisit {
- val name = "Thanyapisit"
- val birth = "14th-Feb-2003"
- 
- val primarySkillset = listOf("Full-stack", "Web developer")
- val languages = listOf("React", "PHP","Python")
- val learning = "Kotlin"
- 
- val contact = "@tententgc".apply {
-   twitter = this
-   facebook = this
-   instagram = this
- }
-}
-```
-## Hello, there
-
-My name is Thanyapisit and I'm a Web Developer. I'm form  Thailand , living in Bangkok.
-
-
-
-## Github Stats
-
-<details> 
-  <summary>💻 GitHub Profile Stats</summary>
-  <br/>
-    <img alt="tententgc Github Stats" src="https://github-readme-stats.vercel.app/api?username=tententgc&show_icons=true&count_private=true&theme=radical&hide_border=true&bg_color=0D1117" />
-  <img alt="tententgc Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tententgc&langs_count=10&layout=compact&theme=radical&hide_border=true&bg_color=0D1117" />
-  <br/>
-  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 </details>
-
-<img alt="streak stats" src="https://github-readme-streak-stats.herokuapp.com/?user=tententgc&theme=highcontrast" />

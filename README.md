@@ -17,6 +17,7 @@
 - :nerd_face: Always `learning new things`
 
 <br>
+<details>
 
 ## 🔥 Streak Stats
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=tententgc&theme=algolia" alt="7oSkaaa" /></p>
@@ -51,3 +52,4 @@
 
 
 <br/>
+</details>

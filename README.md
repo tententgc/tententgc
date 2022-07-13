@@ -55,4 +55,4 @@
 </details>
 
 ## My snake eating
-![snake gif](https://github.com/tententgc/tententgc/blob/output/github-contribution-grid-snake.gif)
+![snake gif](https://github.com/tententgc/tententgc/blob/output/github-contribution-grid-snake.svg)

@@ -69,6 +69,8 @@ Full List in my [resume](https://tententgc.com)
 <details>
 <summary>Github stats</summary>
   
+  [![@tenten_tgc's Holopin board](https://holopin.me/tenten_tgc)](https://holopin.io/@tenten_tgc)
+  
   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tententgc&show_icons=true&theme=radical)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tententgc&layout=compact&theme=default)]

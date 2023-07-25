@@ -21,10 +21,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Git Command พื้นฐานที่คนอยากจะ Dev จำเป็นต้องรู้ 101](https://medium.com/@tententgc/git-command-%E0%B8%9E%E0%B8%B7%E0%B9%89%E0%B8%99%E0%B8%90%E0%B8%B2%E0%B8%99%E0%B8%97%E0%B8%B5%E0%B9%88%E0%B8%84%E0%B8%99%E0%B8%AD%E0%B8%A2%E0%B8%B2%E0%B8%81%E0%B8%88%E0%B8%B0-dev-%E0%B8%88%E0%B8%B3%E0%B9%80%E0%B8%9B%E0%B9%87%E0%B8%99%E0%B8%95%E0%B9%89%E0%B8%AD%E0%B8%87%E0%B8%A3%E0%B8%B9%E0%B9%89-101-ae8164ae1b3b?source=rss-7c18b421cb41------2)
 - [การทำ linebot ChatGpt เพื่อตอบคำถามอย่างง่ายด้วย Google App Script](https://medium.com/@tententgc/%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B8%97%E0%B8%B3-linebot-chatgpt-%E0%B9%80%E0%B8%9E%E0%B8%B7%E0%B9%88%E0%B8%AD%E0%B8%95%E0%B8%AD%E0%B8%9A%E0%B8%84%E0%B8%B3%E0%B8%96%E0%B8%B2%E0%B8%A1%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B8%97%E0%B8%B3%E0%B8%87%E0%B8%B2%E0%B8%99%E0%B8%AD%E0%B8%A2%E0%B9%88%E0%B8%B2%E0%B8%87%E0%B8%87%E0%B9%88%E0%B8%B2%E0%B8%A2%E0%B8%94%E0%B9%89%E0%B8%A7%E0%B8%A2-google-app-script-ab95a9271865?source=rss-7c18b421cb41------2)
 - [Minimumspanningtree&lpar;Prim,Kruskal&rpar;](https://medium.com/@tententgc/minimumspanningtree-prim-kruskal-22cf9bc40ad9?source=rss-7c18b421cb41------2)
 - [แนะนำ Visual Studio Code Extensions 2022](https://medium.com/@tententgc/%E0%B9%81%E0%B8%99%E0%B8%B0%E0%B8%99%E0%B8%B3-visual-studio-code-extensions-2022-60987101fba4?source=rss-7c18b421cb41------2)
-- [Dijkstra’s algorithm คืออะไร?](https://medium.com/@tententgc/dijkstras-algorithm-%E0%B8%84%E0%B8%B7%E0%B8%AD%E0%B8%AD%E0%B8%B0%E0%B9%84%E0%B8%A3-48c97d066f0f?source=rss-7c18b421cb41------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>

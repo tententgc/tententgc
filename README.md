@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/tententgc" target="blank"><img src="https://img.shields.io/twitter/follow/tententgc?logo=twitter&style=for-the-badge" alt="tententgc" /></a> </p>
 
-- 🌱 I’m currently learning **Google Data Analytics**
+
 
 - 👨‍💻 All of my projects are available at [www.tententgc.com](www.tententgc.com)
 

@@ -21,10 +21,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Super Tiny Bot with Langchain + Microsoft Phi-2 SLM Model](https://medium.com/@tententgc/super-tiny-bot-with-langchain-microsoft-phi-2-slm-model-791b4f6b516e?source=rss-7c18b421cb41------2)
 - [Making Storytelling from Image with Gemini Pro Vision](https://medium.com/@tententgc/making-storytelling-from-image-with-gemini-pro-vision-cf492374cb41?source=rss-7c18b421cb41------2)
 - [Improving Retrieval Performance in RAG Pipeline with Hybrid Search](https://medium.com/@tententgc/%E0%B9%80%E0%B8%9E%E0%B8%B4%E0%B9%88%E0%B8%A1-retrieval-performance-%E0%B9%83%E0%B8%99-rag-pipeline-%E0%B8%94%E0%B9%89%E0%B8%A7%E0%B8%A2-hybrid-search-58230f3487d4?source=rss-7c18b421cb41------2)
 - [Create Chatbot with your own Data using Langchain and OpenAI API](https://medium.com/@tententgc/%E0%B8%AA%E0%B8%A3%E0%B9%89%E0%B8%B2%E0%B8%87-chatbot-%E0%B8%95%E0%B8%AD%E0%B8%9A%E0%B8%84%E0%B8%B3%E0%B8%96%E0%B8%B2%E0%B8%A1%E0%B8%94%E0%B9%89%E0%B8%A7%E0%B8%A2%E0%B8%82%E0%B9%89%E0%B8%AD%E0%B8%A1%E0%B8%B9%E0%B8%A5%E0%B8%82%E0%B8%AD%E0%B8%87%E0%B8%84%E0%B8%B8%E0%B8%93%E0%B8%88%E0%B8%B2%E0%B8%81-langchain-%E0%B9%81%E0%B8%A5%E0%B8%B0-openai-a1413bf61832?source=rss-7c18b421cb41------2)
-- [Python101 บทเรียนสำหรับผู้เริ่มต้น](https://medium.com/@tententgc/python101-%E0%B8%9A%E0%B8%97%E0%B9%80%E0%B8%A3%E0%B8%B5%E0%B8%A2%E0%B8%99%E0%B8%AA%E0%B8%B3%E0%B8%AB%E0%B8%A3%E0%B8%B1%E0%B8%9A%E0%B8%9C%E0%B8%B9%E0%B9%89%E0%B9%80%E0%B8%A3%E0%B8%B4%E0%B9%88%E0%B8%A1%E0%B8%95%E0%B9%89%E0%B8%99-ed477886a543?source=rss-7c18b421cb41------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>

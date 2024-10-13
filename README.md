@@ -21,7 +21,7 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
-- [YOLOv11x-Segmentation: Transforming Real-Time Object Detection and Segmentation in 2024](https://medium.com/@tententgc/yolov11x-segmentation-transforming-real-time-object-detection-and-segmentation-in-2024-b0811007ce22?source=rss-7c18b421cb41------2)
+- [YOLOv11: Transforming Real-Time Object Detection and Segmentation in 2024](https://medium.com/@tententgc/yolov11x-segmentation-transforming-real-time-object-detection-and-segmentation-in-2024-b0811007ce22?source=rss-7c18b421cb41------2)
 - [YOLOv9 Faster and More Accurate Object Detection](https://medium.com/@tententgc/yolov9-faster-and-more-accurate-object-detection-337a7ca29676?source=rss-7c18b421cb41------2)
 - [Vectorization vs Loops: The Secret to Massive Python Performance Gains](https://medium.com/@tententgc/vectorization-vs-loops-the-secret-to-massive-python-performance-gains-af8a4ac17234?source=rss-7c18b421cb41------2)
 - [Super Tiny Bot with Langchain + Microsoft Phi-2 SLM Model](https://medium.com/@tententgc/super-tiny-bot-with-langchain-microsoft-phi-2-slm-model-791b4f6b516e?source=rss-7c18b421cb41------2)

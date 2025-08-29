@@ -36,6 +36,15 @@ Passionate researcher in computer vision, large language models (LLMs), and data
 - Developed state-of-the-art Retrieval-Augmented Generation (RAG) systems and Agentic AI
 - Designed and implemented an OCR (Optical Character Recognition) processing pipeline
 - Built a user behavior analytics and recommendation system
+---
+
+## Contact Information
+
+- **Email**: [thanyapisit.bua@gmail.com](mailto:thanyapisit.bua@gmail.com)  
+- **LinkedIn**: [Thanyapisit Buaprakhong](https://www.linkedin.com/in/tententgc/)  
+- **Portfolio**: [tententgc.com](https://www.tententgc.com/)
+
+---
 
 ## Blog Post
 <!-- BLOG-POST-LIST:START -->

@@ -6,7 +6,7 @@ Passionate researcher in computer vision, large language models (LLMs), and data
 
 ## Professional Experience
 ### Data Scientist Internship - InnovestX Subsidiary of SCBX
-*present*
+*2025-2025*
 - Specialized in user behavior analytics to extract meaningful insights from complex data
 - Focused on financial data modeling including classification and predictive forecasting
 - Applied LLM and Retrieval-Augmented Generation (RAG) techniques to enhance intelligent systems in the investment domain
